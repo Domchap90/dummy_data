@@ -1,0 +1,18 @@
+{"todos": [
+      {
+        "id": "d105dee3-bd21-4140-8673-94604c13d6fd",
+        "title": "Take rubbish out.",
+        "completed": false
+      },
+      {
+        "id": "f942475d-4266-4760-8dad-5b6d1e299557",
+        "title": "Clean the kitchen.",
+        "completed": true
+      },
+      {
+        "id": "da7d8076-47a2-4d14-9054-abdab7a2802b",
+        "title": "Read children bedtime story.",
+        "completed": false
+      },
+    ]
+}
